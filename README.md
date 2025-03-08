@@ -27,7 +27,8 @@ Sou Jonathan Barros, um desenvolvedor Back-End de 18 anos, natural de Fortaleza,
 
 ## 🏆 Projetos Destacados
 
-- [Fizz Buzz Challenge](https://github.com/TheDauss/FizBuzz): FizzBuzz é um desafio de programação frequentemente usado como uma ferramenta de triagem em entrevistas de emprego para programadores.
+- [Blog API](https://github.com/JonathanBarross/Blog): Desenvolvimento de uma API em ASP.NET com Boas Práticas e Autenticação.
+- [Fizz Buzz Challenge](https://github.com/JonathanBarross/FizBuzz): FizzBuzz é um desafio de programação frequentemente usado como uma ferramenta de triagem em entrevistas de emprego para programadores.
 
 ###
 ---
