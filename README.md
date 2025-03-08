@@ -4,7 +4,7 @@
 [![X](https://img.shields.io/badge/X-000000?logo=X&logoColor=white&style=for-the-badge)](https://x.com/Jothnet)
 <!-- [![Projeto principal](https://img.shields.io/badge/Website-[MeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com]) -->
 
-Sou Jonathan Barros, um desenvolvedor Back-End de 18 anos, natural de Fortaleza, atualmente cursando Análise e Desenvolvimento de Sistemas na Estácio. Tenho foco em ASP.NET e busco constantemente aprimorar meus conhecimentos na área. Sou uma pessoa que aprende rápido, com forte vontade de evoluir e grande sede de conhecimento. Valorizo a eficiência e a pontualidade, sempre buscando entregar resultados de qualidade. 
+Sou Jonathan Barros, um desenvolvedor Back-End de 18 anos, natural de Fortaleza, atualmente cursando Análise e Desenvolvimento de Sistemas na Estácio. Tenho foco em ASP.NET Core e busco constantemente aprimorar meus conhecimentos na área. Sou uma pessoa que aprende rápido, com forte vontade de evoluir e grande sede de conhecimento. Valorizo a eficiência e a pontualidade, sempre buscando entregar resultados de qualidade. 
 
 ## 💻 Habilidades Técnicas
 
@@ -27,7 +27,7 @@ Sou Jonathan Barros, um desenvolvedor Back-End de 18 anos, natural de Fortaleza,
 
 ## 🏆 Projetos Destacados
 
-- [Blog API](https://github.com/JonathanBarross/Blog): API de um Blog em ASP.NET com Boas Práticas e Autenticação. Projeto utilizado para aplicar conhecimento prático em Entity Framework e ASP.NET.
+- [Blog API](https://github.com/JonathanBarross/Blog): API de um Blog em ASP.NET Core com Boas Práticas e Autenticação. Projeto utilizado para praticar conhecimentos de Entity Framework e ASP.NET.
 - [Fizz Buzz Challenge](https://github.com/JonathanBarross/FizBuzz): FizzBuzz é um desafio de programação frequentemente usado como uma ferramenta de triagem em entrevistas de emprego para programadores.
 
 ###
