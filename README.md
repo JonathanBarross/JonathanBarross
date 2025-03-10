@@ -1,7 +1,6 @@
 # 👋 Olá, eu me chamo Jonathan Barros!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/jonathanbarross)
 [![GMail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:pvojonathan83@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?logo=X&logoColor=white&style=for-the-badge)](https://x.com/Jothnet)
 <!-- [![Projeto principal](https://img.shields.io/badge/Website-[MeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com]) -->
 
 Sou Jonathan Barros, um desenvolvedor Back-End de 18 anos, natural de Fortaleza, atualmente cursando Análise e Desenvolvimento de Sistemas na Estácio. Tenho foco em ASP.NET Core e busco constantemente aprimorar meus conhecimentos na área. Sou uma pessoa que aprende rápido, com forte vontade de evoluir e grande sede de conhecimento. Valorizo a eficiência e a pontualidade, sempre buscando entregar resultados de qualidade. 
