@@ -7,18 +7,18 @@ Sou Jonathan Barros, um desenvolvedor Back-End de 18 anos, natural de Fortaleza,
 
 ## 💻 Habilidades Técnicas
 
-- Linguagens de Programação: 
+- Linguagens: 
 
-    [![My Skills](https://skillicons.dev/icons?i=cs,java,cpp&theme=light)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=cs,java,cpp,c,php,js,html,css&theme=light)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,supabase)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,postman)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman,notion)](https://skillicons.dev)
 <!-- - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
