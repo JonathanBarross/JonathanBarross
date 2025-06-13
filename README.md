@@ -3,7 +3,7 @@
 [![GMail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:pvojonathan83@gmail.com)
 <!-- [![Projeto principal](https://img.shields.io/badge/Website-[MeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com]) -->
 
-Sou Jonathan Barros, um desenvolvedor Back-End de 18 anos, natural de Fortaleza, atualmente cursando Análise e Desenvolvimento de Sistemas na Estácio. Tenho foco em ASP.NET Core e busco constantemente aprimorar meus conhecimentos na área. Sou uma pessoa que aprende rápido, com forte vontade de evoluir e grande sede de conhecimento. Valorizo a eficiência e a pontualidade, sempre buscando entregar resultados de qualidade. 
+Sou Jonathan Barros, um desenvolvedor Back-End de 19 anos, natural de Fortaleza, atualmente cursando Análise e Desenvolvimento de Sistemas na Estácio. Tenho foco em ASP.NET Core e busco constantemente aprimorar meus conhecimentos na área. Sou uma pessoa que aprende rápido, com forte vontade de evoluir e grande sede de conhecimento. Valorizo a eficiência e a pontualidade, sempre buscando entregar resultados de qualidade. 
 
 ## 💻 Habilidades Técnicas
 
